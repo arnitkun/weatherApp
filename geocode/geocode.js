@@ -1,5 +1,6 @@
 
 const KEY = '1XBOra9jpZAJWg2ayYbc1O8aoak6OOuB'; //dude remove this, import it from a gitignored file
+
 const request = require('request');
 var geocodeAddress = (address, callback) => {
     var encodedAddress = encodeURI(address);

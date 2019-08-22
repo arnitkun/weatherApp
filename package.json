@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/arnitkun/weatherApp#readme",
   "dependencies": {
+    "axios": "^0.19.0",
     "request": "^2.88.0",
     "yargs": "^14.0.0"
   }
